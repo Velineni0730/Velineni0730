@@ -2,9 +2,7 @@
 
 💻 Computer Science Engineering student at GITAM University
 
-🚀 Passionate about Full-Stack Development, Cloud Computing, and AI
-
-🌱 Currently learning Microsoft Azure and preparing for AZ-104
+🚀 Passionate about EVERYTHING.
 
 🛠️ Building practical software that solves real-world problems
 
